@@ -3,7 +3,8 @@
 
 [![Tech Stack](https://skillicons.dev/icons?i=react,redux,tailwind,vercel)](#tech-stack)
 
-<h3 align="center"><b>jokopi</b> - Example App</h3>
+<h3 align="center"><b>aniket open -source
+</b> - Example App</h3>
    <p align="center">
    Open Source. Front-end.
    </p>
